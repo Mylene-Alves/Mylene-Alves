@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🌻
 
-<!--
-**Mylene-Alves/Mylene-Alves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Mylene Alves
 
-Here are some ideas to get you started:
+- Estou estudando o Alura
+- Estou desenvolvendo a linguagem do JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ###Você pode entrar em contato comigo 📫
+
+  @mylenealves@prof.educacao.sp.gov.br
+
+![](https://tenor.com/pt-BR/view/yay-yayyyy-cat-happy-goober-gif-10543488045239200680)
+
