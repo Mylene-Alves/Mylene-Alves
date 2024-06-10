@@ -10,5 +10,5 @@ Meu nome é Mylene Alves
 
   @mylenealves@prof.educacao.sp.gov.br
 
-![](https://tenor.com/pt-BR/view/thai-ping-typing-typing-fast-cat-typing-gif-8974944355033076259)
+![](https://media.tenor.com/fI1oVvCk0iMAAAAM/thai-ping.gif)
 
